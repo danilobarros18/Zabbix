@@ -1,5 +1,5 @@
 # Zabbix
-![Alt Text](https://github.com/danilobarros18/Zabbix/tree/master/IMG/zabbix.png) ## Repositório Zabbix
+![Alt Text](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjl6Jq8rNzTAhUCHZAKHViuD8AQjRwIBw&url=http%3A%2F%2Fwww.fluentd.org%2Fdataoutputs&psig=AFQjCNEIWZlgHsC228X205RlQZLS6AUhNA&ust=1494197176194027) ## Repositório Zabbix
 
 ## Contatos:
 
