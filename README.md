@@ -1,7 +1,7 @@
 # Zabbix
 ## Repositório Zabbix
 
-## Contatos
+## Contatos:
 
 - Telegram: @Danilo Barros
 - Skype: contato@provtel.com.br
