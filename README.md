@@ -1,5 +1,5 @@
 # Zabbix
-## Repositório Zabbix
+![Alt Text](https://github.com/danilobarros18/Zabbix/tree/master/IMG/zabbix.png) ## Repositório Zabbix
 
 ## Contatos:
 
