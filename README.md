@@ -1,8 +1,5 @@
-  ![Alt Text](https://github.com/danilobarros18/Zabbix/blob/master/IMG/zabbix.png?raw=true)  
-# Zabbix
-
-## Repositório Zabbix
-
+![Alt Text](https://github.com/danilobarros18/Zabbix/blob/master/IMG/zabbix.png?raw=true)  
+# Repositório Zabbix
 ## Contatos:
 
 - Telegram: @Danilo Barros
