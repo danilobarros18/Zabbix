@@ -3,7 +3,7 @@
 ## Contatos:
 
 - Telegram: @Danilo Barros
-- E-mail: danilo@provtel.com.br
+- E-mail: danilo@luniobr.com
 - Linkedin:https://www.linkedin.com/in/danilo-barros-08663a1b/
 
 ```sh
